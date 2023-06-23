@@ -1,3 +1,10 @@
 # Odin-recipe
-This my first recipe project kind looks bad
-i didn't do css yet so yesh I'll do my best 😁 
+This is a part of the odin project foundation course. The goal of this project is to build recipe website
+
+# To-do
+- Basic Html structure
+- css styling
+- Responsive design
+- Custom scrollbar 
+- Hover effects
+- Go back home 
